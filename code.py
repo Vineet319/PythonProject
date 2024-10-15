@@ -1,1 +1,1 @@
-print("Ecommerce project")
+print("Ecommerce project with django and react")
